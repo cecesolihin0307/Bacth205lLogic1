@@ -1,0 +1,12 @@
+E:\BOOTCAMP BACTH 205\Project C#\Logic1\Logic1\bin\Debug\Logic1.exe.config
+E:\BOOTCAMP BACTH 205\Project C#\Logic1\Logic1\bin\Debug\Logic1.exe
+E:\BOOTCAMP BACTH 205\Project C#\Logic1\Logic1\bin\Debug\Logic1.pdb
+E:\BOOTCAMP BACTH 205\Project C#\Logic1\Logic1\obj\Debug\Logic1.csprojResolveAssemblyReference.cache
+E:\BOOTCAMP BACTH 205\Project C#\Logic1\Logic1\obj\Debug\Logic1.exe
+E:\BOOTCAMP BACTH 205\Project C#\Logic1\Logic1\obj\Debug\Logic1.pdb
+H:\Project C#\Logic1\Logic1\bin\Debug\Logic1.exe.config
+H:\Project C#\Logic1\Logic1\obj\Debug\Logic1.exe
+H:\Project C#\Logic1\Logic1\obj\Debug\Logic1.pdb
+H:\Project C#\Logic1\Logic1\bin\Debug\Logic1.exe
+H:\Project C#\Logic1\Logic1\bin\Debug\Logic1.pdb
+H:\Project C#\Logic1\Logic1\obj\Debug\Logic1.csprojResolveAssemblyReference.cache
